@@ -94,7 +94,7 @@ recommendations for credit risk management.
 
 ## 📂 Project Structure
 
-
+```
 credit-risk-analysis/
 ├── images/
 │   ├── dashboard_1.png
@@ -107,6 +107,7 @@ credit-risk-analysis/
 │   └── Credit_Risk_Analysis.docx
 ├── credit_risk_cleaned.csv
 └── README.md
+```
 
 ---
 
