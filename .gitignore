@@ -1,0 +1,13 @@
+# Data files - Only keep the cleaned one
+credit_risk_dataset.csv
+
+# Report files - Only keep the PDF
+report/*.docx
+
+# Python/Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+__pycache__/
+
+# OS generated files
+.DS_Store
