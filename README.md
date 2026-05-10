@@ -104,7 +104,9 @@ credit-risk-analysis/
 │   ├── credit_risk_cleaning.ipynb
 │   └── credit_risk_eda.ipynb
 ├── report/
-│   └── Credit_Risk_Analysis.docx
+│   └── Credit_Risk_Analysis.pdf
+├── sql_file/
+│   └── credit_risk_eda.sql
 ├── credit_risk_cleaned.csv
 └── README.md
 ```
